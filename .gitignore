@@ -1,0 +1,19 @@
+# Raw and processed datasets
+data/
+
+# Private learning notebooks
+notebooks/*_learning.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
