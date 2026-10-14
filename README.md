@@ -88,7 +88,7 @@ A Streamlit application will allow users to select several favorite games and ge
 ## Repository Structure
 
 ```text
-steam-game-recommender/
+Steam-Games-Recommender-Project/
 │
 ├── notebooks/
 │   └── 01_data_audit.ipynb
