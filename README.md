@@ -1,4 +1,4 @@
-# Steam Game Recommendation System
+# Steam Games Recommendation System
 
 An end-to-end recommendation system using Steam user reviews and game metadata to generate personalized game recommendations.
 
