@@ -16,7 +16,7 @@ The project focuses on three recommendation approaches:
 - **Content-based filtering:** Use game attributes, including tags and descriptions, to identify similar titles.
 - **Hybrid recommendations:** Combine collaborative and content-based signals to improve recommendation relevance.
 
-A Streamlit application is planned to provide an interactive interface for generating recommendations.
+A Streamlit application is planned to provide an interactive interface for generating game recommendations.
 
 ## Dataset
 
