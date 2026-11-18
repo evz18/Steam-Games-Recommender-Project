@@ -20,7 +20,7 @@ A Streamlit application is planned to provide an interactive interface for gener
 
 ## Dataset
 
-**Source:** [Game Recommendations on Steam — Kaggle](https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam)
+**Source link:** [Game Recommendations on Steam — Kaggle](https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam)
 
 The original dataset contains approximately 41 million reviews and metadata for more than 50,000 games.
 
